@@ -10,5 +10,5 @@ This repo is the continuation of the Machine-Learning repo. Here I'm gonna to up
 
 <h2>Why Deep Learning?</h2>
 
-![WhyDL](img/whydl.png)
+<img src="img/whydl.png" width="600" height="400"></img>
 <p>Slide by Andrew Ng, all rights reserved (<a>https://www.slideshare.net/ExtractConf</a>)</p>

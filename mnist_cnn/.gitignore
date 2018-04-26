@@ -2,4 +2,4 @@
 
 !.gitignore
 !mnist_cnn.ipynb
-!img
+!img/

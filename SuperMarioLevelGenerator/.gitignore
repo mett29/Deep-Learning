@@ -1,0 +1,8 @@
+*
+
+!.gitignore
+!SMLevelGenerator.ipynb
+!blocks/
+!levels/
+!txtlevels/
+!data.txt

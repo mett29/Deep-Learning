@@ -1,0 +1,8 @@
+*
+
+!.gitignore
+!lstm_text_generator.ipynb
+!nietzsche.txt
+!metamorphosis.txt
+!img/
+!README.md

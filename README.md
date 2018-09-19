@@ -21,5 +21,5 @@ More than you think, [HERE](https://towardsdatascience.com/the-mostly-complete-c
 - [What is deep learning?](https://machinelearningmastery.com/what-is-deep-learning/)
 - Free books:
     - [Deep Learning Book](http://www.deeplearningbook.org/)
-    - [Neural Networks and Deep Learnig](http://neuralnetworksanddeeplearning.com/)
-- [Coursera course](https://www.coursera.org/learn/neural-networks/home/welcome)
+    - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
+- [Coursera course taught by Geoffrey Hinton](https://www.coursera.org/learn/neural-networks/home/welcome)

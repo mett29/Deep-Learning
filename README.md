@@ -1,6 +1,10 @@
 # Deep Learning
 This repo is the continuation of the Machine-Learning repo. Here I'm gonna to upload all the examples and exercises which I'll do to learn deep learning techniques and all the problems I'll solve using these last few.
 
+### Disclaimer
+- Tensorflow 2.0 is here! Check [HERE](https://www.tensorflow.org/alpha). Right now, most of the files in this repo are written using the old version of TF.
+- Sometimes GitHub doesn't render properly the notebooks: if the load fails, go on [nbviewer](https://nbviewer.jupyter.org/) to see them.
+
 ### What are we talking about?
 Deep Learning is a subfield of machine learning concerned with algorithms inspired by the structure and function of the brain called artificial neural networks.
 
@@ -22,4 +26,4 @@ More than you think, [HERE](https://towardsdatascience.com/the-mostly-complete-c
 - Free books:
     - [Deep Learning Book](http://www.deeplearningbook.org/)
     - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
-- [Coursera course taught by Geoffrey Hinton](https://www.coursera.org/learn/neural-networks/home/welcome)
+- [Coursera courses](https://www.coursera.org/courses?query=deep%20learning&)
